@@ -1,0 +1,11 @@
+dependencies:
+  - name: d3
+    version: 4.10.2
+    src: htmlwidgets/lib/d3
+    script:
+      - d3.v4.min.js
+  - name: d3plus
+    version: 2.0.0
+    src: htmlwidgets/lib/d3plus
+    script:
+      - d3plus.v2.0.0-alpha.13.full.min.js
